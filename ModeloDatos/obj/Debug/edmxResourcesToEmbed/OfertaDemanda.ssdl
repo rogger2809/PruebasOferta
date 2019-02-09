@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PruebaDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'PruebaDB.dbo.Demanda' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Demanda">
+          <Property Name="idProducto" Type="int" />
+          <Property Name="CantidadSolicitada" Type="int" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'PruebaDB.dbo.Oferta' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Oferta">
+          <Property Name="idProducto" Type="int" />
+          <Property Name="Lote" Type="varchar" MaxLength="50" />
+          <Property Name="CantidadDisponible" Type="int" />
+        </EntityType>-->
+  <Function Name="OfertaDemanda" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="idProducto" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="PruebaDBModelStoreContainer" />
+</Schema>

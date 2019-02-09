@@ -1,0 +1,6 @@
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloNegocios\bin\Debug\ModeloNegocios.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloNegocios\bin\Debug\ModeloNegocios.pdb
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloNegocios\obj\Debug\ModeloNegocios.Properties.Resources.resources
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloNegocios\obj\Debug\ModeloNegocios.csproj.GenerateResource.Cache
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloNegocios\obj\Debug\ModeloNegocios.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloNegocios\obj\Debug\ModeloNegocios.pdb

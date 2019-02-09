@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PruebaDBModelStoreContainer" CdmEntityContainer="PruebaDBEntities">
+    <FunctionImportMapping FunctionImportName="OfertaDemanda" FunctionName="PruebaDBModel.Store.OfertaDemanda">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PruebaDBModel.OfertaDemanda_Result">
+          <ScalarProperty Name="idProducto" ColumnName="idProducto" />
+          <ScalarProperty Name="cantidadSolicitada" ColumnName="cantidadSolicitada" />
+          <ScalarProperty Name="cantidadAsignada" ColumnName="cantidadAsignada" />
+          <ScalarProperty Name="residuo" ColumnName="residuo" />
+          <ScalarProperty Name="cantidadDisponible" ColumnName="cantidadDisponible" />
+          <ScalarProperty Name="lote" ColumnName="lote" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

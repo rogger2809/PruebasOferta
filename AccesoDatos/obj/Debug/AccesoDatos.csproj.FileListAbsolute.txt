@@ -1,0 +1,16 @@
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\ModeloDatos.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\ModeloNegocios.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\ModeloNegocios.pdb
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\obj\Debug\AccesoDatos.Properties.Resources.resources
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\obj\Debug\AccesoDatos.csproj.GenerateResource.Cache
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\AccesoDatos\obj\Debug\AccesoDatos.pdb

@@ -1,0 +1,11 @@
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\bin\Debug\ModeloDatos.dll.config
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\bin\Debug\ModeloDatos.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\bin\Debug\ModeloDatos.pdb
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\bin\Debug\EntityFramework.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\bin\Debug\EntityFramework.xml
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\obj\Debug\ModeloDatos.Properties.Resources.resources
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\obj\Debug\ModeloDatos.csproj.GenerateResource.Cache
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\obj\Debug\ModeloDatos.dll
+C:\Users\desa03\Documents\DESARROLLO\PROYECTOS\AsignacionDemanda\Asignación_de_Demanda\ModeloDatos\obj\Debug\ModeloDatos.pdb
